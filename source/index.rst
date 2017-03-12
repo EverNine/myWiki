@@ -10,12 +10,6 @@ Welcome to Worry's Wiki's documentation!
    :caption: Contents:
    :glob:
 
-   **/*
+   ops/index
+   version_control/git
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
